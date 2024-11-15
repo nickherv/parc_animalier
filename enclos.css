@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.enclosure-list {
+    padding: 2rem;
+}
+
+.enclosure {
+    margin-bottom: 2rem;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.enclosure img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.enclosure h2 {
+    margin-top: 0;
+}
